@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Cass!</h1>
-<h3 align="center">An ambitious software engineer coding from TX.</h3>
+<h1 align="center">Hi I'm Cass! 👋</h1>
+<h3 align="center">A software engineer coding from TX.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casacava&label=Profile%20views&color=0e75b6&style=flat" alt="casacava" /> </p>
 
-- 👯 I’m looking to work with others **as a fullstack software engineer**
+👯 I’m looking to work with others **as a fullstack software engineer**
 - Github & Personal Portfolio are under current renovations!
 
 
