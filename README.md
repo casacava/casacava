@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casacava&label=Profile%20views&color=0e75b6&style=flat" alt="casacava" /> </p>
 
-👯 I’m currently working with others as a **frontend developer**.
+👯 I’m currently looking for employment as a **frontend developer**.
 - Github & Personal Portfolio are under current renovations!
 
 
