@@ -7,7 +7,7 @@
 <p align="center">Passionate about creating scalable, high-performance web applications using React, Node.js, and modern web technologies. Skilled in building responsive, user-friendly interfaces with a focus on accessibility and collaboration. Driven by problem-solving and continuous learning. Always open to new challenges and opportunities to collaborate! </p>
 
 
-<p align="center">I’m currently looking for employment as a <b>frontend developer</b>.</p>
+<p align="center">I’m currently looking for employment as a <b>software engineer</b>.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
