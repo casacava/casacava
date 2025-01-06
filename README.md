@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Cass! 👋</h1>
 <h3 align="center">A software engineer coding from TX.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=casacava&label=Profile%20views&color=0e75b6&style=flat" alt="casacava" /> </p>
-
 
 <p align="center">Passionate about creating scalable, high-performance web applications using React, Node.js, and modern web technologies. Skilled in building responsive, user-friendly interfaces with a focus on accessibility and collaboration. Driven by problem-solving and continuous learning. Always open to new challenges and opportunities to collaborate! </p>
 
