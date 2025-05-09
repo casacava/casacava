@@ -5,7 +5,7 @@
 <p align="center">Passionate about creating scalable, high-performance web applications using React, TypeScript, Node.js, SQL, and modern web technologies. Skilled in building responsive, user-friendly full stack applications with a focus on user experience, accessibility, and performance. Driven by problem-solving, continuous learning, and vanilla lattes. </p>
 
 
-<p align="center">🔍 I’m currently seeking full-time opportunities as a <b>software engineer</b>.</p>
+
 <p align="center">
   ✨ You can check out my <a href="https://portfolio-two-omega-82.vercel.app" target="_blank">portfolio</a>, connect with me on 
   <a href="https://linkedin.com/in/casacava" target="_blank">LinkedIn</a>, or explore my work on 
